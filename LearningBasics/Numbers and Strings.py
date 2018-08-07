@@ -26,3 +26,19 @@ firstName += "Peter "
 fullName = firstName + lastName
 
 print(fullName)
+
+# ------------------------------------------
+
+user = "Tuna McFish"
+print(user[0], user[9])
+user_sliced = user[2:7]
+print(user_sliced)
+user_unsliced = user[:]
+print(user_unsliced)
+
+print(len("1234567890"))
+print(len(user))
+
+
+
+
