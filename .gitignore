@@ -121,6 +121,7 @@ venv.bak/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
+*.iml
+*.xml
 
 # End of https://www.gitignore.io/api/python
