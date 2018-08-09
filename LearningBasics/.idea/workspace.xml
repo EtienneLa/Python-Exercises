@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56eb939e-63db-4c27-ab0a-e53693e36033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Download Image from the Web.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ModulesMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/ModulesMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writing_Reading Files.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,94 +24,38 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Variable Scope" value="1" />
-          <entry key="py" value="21" />
+          <entry key="py" value="23" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="22" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Variable Scope" value="119" />
           <entry key="dummy" value="47" />
-          <entry key="py" value="3913" />
+          <entry key="py" value="4136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="47" />
-          <entry key="Python" value="4032" />
+          <entry key="Python" value="4255" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unpacking Arguments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1533847738087" expanded="true" signature="51:56" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModulesMain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Download Image from the Web.py">
+        <entry file="file://$PROJECT_DIR$/Writing_Reading Files.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1533849752806" expanded="true" signature="65:70" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ModulesInclusion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <marker date="1533848916851" expanded="true" signature="23:28" ph="..." />
-              </folding>
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -153,6 +95,8 @@
         <option value="$PROJECT_DIR$/ModulesInclusion.py" />
         <option value="$PROJECT_DIR$/ModulesMain.py" />
         <option value="$PROJECT_DIR$/Download Image from the Web.py" />
+        <option value="$PROJECT_DIR$/Writng/Reading File.py" />
+        <option value="$PROJECT_DIR$/Writing_Reading Files.py" />
       </list>
     </option>
   </component>
@@ -194,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Download Image from the Web">
+  <component name="RunManager" selected="Python.Writing_Reading Files">
     <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearningBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unpacking Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Writing_Reading Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearningBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +235,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unpacking Arguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Writing_Reading Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +245,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unpacking Arguments" />
       <item itemvalue="Python.Sets" />
       <item itemvalue="Python.Dictionary" />
       <item itemvalue="Python.ModulesMain" />
       <item itemvalue="Python.Download Image from the Web" />
+      <item itemvalue="Python.Writing_Reading Files" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Writing_Reading Files" />
         <item itemvalue="Python.Download Image from the Web" />
         <item itemvalue="Python.ModulesMain" />
         <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.Sets" />
-        <item itemvalue="Python.Unpacking Arguments" />
       </list>
     </recent_temporary>
   </component>
@@ -338,8 +282,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22860238" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22860238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,6 +442,27 @@
             <element signature="e#0#13#0" expanded="true" />
             <marker date="1533849752806" expanded="true" signature="65:70" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Writng/Reading File.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Writing_Reading Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
