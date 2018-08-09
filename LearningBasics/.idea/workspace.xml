@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56eb939e-63db-4c27-ab0a-e53693e36033" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Unpacking Arguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sets.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,39 +24,48 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Variable Scope" value="1" />
-          <entry key="py" value="16" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="17" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Variable Scope" value="119" />
           <entry key="dummy" value="43" />
-          <entry key="py" value="3143" />
+          <entry key="py" value="3245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="43" />
-          <entry key="Python" value="3262" />
+          <entry key="Python" value="3364" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Unpacking Arguments.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1533847710978" expanded="true" signature="51:56" ph="..." />
+                <marker date="1533847738087" expanded="true" signature="51:56" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -91,6 +99,7 @@
         <option value="$PROJECT_DIR$/Keyword Arguments.py" />
         <option value="$PROJECT_DIR$/Flexible Number of Arguments.py" />
         <option value="$PROJECT_DIR$/Unpacking Arguments.py" />
+        <option value="$PROJECT_DIR$/Sets.py" />
       </list>
     </option>
   </component>
@@ -132,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Unpacking Arguments">
+  <component name="RunManager" selected="Python.Sets">
     <configuration name="Default Values for Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearningBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,27 +184,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LearningBasics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Keyword Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearningBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,6 +197,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Keyword Arguments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningBasics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,19 +248,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Functions" />
       <item itemvalue="Python.Default Values for Arguments" />
       <item itemvalue="Python.Keyword Arguments" />
       <item itemvalue="Python.Flexible Number of Arguments" />
       <item itemvalue="Python.Unpacking Arguments" />
+      <item itemvalue="Python.Sets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sets" />
         <item itemvalue="Python.Unpacking Arguments" />
         <item itemvalue="Python.Flexible Number of Arguments" />
         <item itemvalue="Python.Keyword Arguments" />
         <item itemvalue="Python.Default Values for Arguments" />
-        <item itemvalue="Python.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -389,8 +398,15 @@
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1533847710978" expanded="true" signature="51:56" ph="..." />
+            <marker date="1533847738087" expanded="true" signature="51:56" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
