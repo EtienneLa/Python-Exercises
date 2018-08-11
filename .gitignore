@@ -125,3 +125,4 @@ pip-selfcheck.json
 *.xml
 
 # End of https://www.gitignore.io/api/python
+*.xml
