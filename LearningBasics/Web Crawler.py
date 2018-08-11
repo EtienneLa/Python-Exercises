@@ -10,12 +10,12 @@ def book_spider(max_pages):
         plain_text = source_code.text
         soup = BeautifulSoup(plain_text, features="html.parser")
         for link in soup.find_all("a"):
-            href = str(link.get("title"))
-            if href != "None":
-                print(href)
+            title = str(link.get("title"))
+            if title != "None":
+                print(title)
         page += 1
 
 
-book_spider(1)
+book_spider(5)
 
 
