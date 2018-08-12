@@ -5,7 +5,7 @@ class Enemy:
         print("ouch!")
         self.life -= 1
 
-    def checkLife(self):
+    def check_life(self):
         if self.life <= 0:
             print("I am dead..")
         else:
@@ -17,5 +17,5 @@ enemy2 = Enemy()
 
 enemy1.attack()
 enemy1.attack()
-enemy1.checkLife()
-enemy2.checkLife()
+enemy1.check_life()
+enemy2.check_life()
