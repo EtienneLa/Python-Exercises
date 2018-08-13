@@ -9,6 +9,6 @@ class Messenger(threading.Thread):
 
 
 x = Messenger(name="Send out messages")
-y = Messenger(name="Receive Mmessages")
+y = Messenger(name="Receive messages")
 x.start()
 y.start()
