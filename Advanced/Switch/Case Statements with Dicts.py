@@ -1,5 +1,4 @@
 # standard way of handling if statements
-
 def dispatch_if(operator, x, y):
     if operator == 'add':
         return x + y
@@ -13,7 +12,6 @@ def dispatch_if(operator, x, y):
 
 
 # with dict and lambda (slower but cleaner)
-
 def dispatch_if_v2(operator, x, y):
     return {
         'add': lambda: x + y,
